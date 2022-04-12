@@ -1,2 +1,2 @@
 # dotfiles
-My personal dotfiles and confs
+My personal dotfiles and configs
